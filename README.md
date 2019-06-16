@@ -7,6 +7,7 @@ Ubahn is a framework for creating chatbot conversations. Key aspects of Ubahn:
 * Each conversation consists of named inputs and outputs.
 * The logic and appearance of inputs and outputs is defined by external applications which use Ubahn.
 * The framework doesn’t do any NLP or AI, it doesn’t assume which channel is used for communication. It’s purely about creating a structure of a conversation and building specific implementations on top of that structure.
+* Named after Munich subway system of the same name.
 
 Here’s an example of a conversation:
 
